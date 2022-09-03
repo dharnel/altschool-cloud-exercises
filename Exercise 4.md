@@ -1,4 +1,4 @@
-### Alt school africa Exercise 4
+### Alt school africa cloud Exercise 4
 
 This exercise was to install PHP version 7.4 on our local linux machine using the ppa:ondrej/php package repo and to also learn how to use the add-apt-repository command.
 The exercise was relatively straightforward and I did not have any difficulty in attempting it.
