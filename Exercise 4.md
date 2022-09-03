@@ -18,3 +18,5 @@ Then I ran the sudo apt -y install php7.4
 The content of /etc/apt/sources.list and the php -v command
 ![Screenshot (59)](https://user-images.githubusercontent.com/68646090/188276395-012010d6-6f01-4e68-999e-3aa746455598.png)
 
+![Screenshot (60)](https://user-images.githubusercontent.com/68646090/188276919-ce8f2ccc-363a-43ce-89c5-6b1f3046d6ab.png)
+
